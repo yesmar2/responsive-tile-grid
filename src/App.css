@@ -1,0 +1,8 @@
+.app {
+    height: 100%;
+    overflow: auto;
+
+    /* background: url("./images/background.svg");
+    background-color: #081120;
+    background-repeat: no-repeat; */
+}

@@ -1,0 +1,38 @@
+.grid {
+    --gutter: 50px;
+    --columns: 2;
+
+    display: grid;
+    padding: var(--gutter);
+    grid-template-columns: repeat(var(--columns), 1fr);
+    grid-gap: var(--gutter);
+}
+
+@media (min-width: 600px) {
+    .grid {
+        --columns: 3;
+    }
+}
+
+@media (min-width: 900px) {
+    .grid {
+        --columns: 4;
+    }
+}
+
+@media (min-width: 1200px) {
+    .grid {
+        --columns: 5;
+    }
+}
+
+@media (min-width: 1500px) {
+    .grid {
+        --columns: 6;
+    }
+}
+@media (min-width: 1800px) {
+    .grid {
+        --columns: 7;
+    }
+}

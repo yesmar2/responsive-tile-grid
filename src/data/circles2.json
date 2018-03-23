@@ -1,0 +1,176 @@
+[
+    {
+        "icon": "faPlusSquare",
+        "color": "green",
+        "title": "irure",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCircle",
+        "color": "purple",
+        "title": "sint",
+        "linkTo": ""
+    },
+    {
+        "icon": "faObjectUngroup",
+        "color": "red",
+        "title": "ut",
+        "linkTo": ""
+    },
+    {
+        "icon": "faPaperPlane",
+        "color": "orange",
+        "title": "occaecat",
+        "linkTo": ""
+    },
+    {
+        "icon": "faEnvelopeOpen",
+        "color": "purple",
+        "title": "sunt",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCopy",
+        "color": "light-blue",
+        "title": "anim",
+        "linkTo": ""
+    },
+    {
+        "icon": "faHandPointLeft",
+        "color": "purple",
+        "title": "sit",
+        "linkTo": ""
+    },
+    {
+        "icon": "faFileArchive",
+        "color": "orange",
+        "title": "nulla",
+        "linkTo": ""
+    },
+    {
+        "icon": "faFileWord",
+        "color": "blue",
+        "title": "magna",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCreditCard",
+        "color": "orange",
+        "title": "id",
+        "linkTo": ""
+    },
+    {
+        "icon": "faTimesCircle",
+        "color": "orange",
+        "title": "excepteur",
+        "linkTo": ""
+    },
+    {
+        "icon": "faMoon",
+        "color": "light-blue",
+        "title": "fugiat",
+        "linkTo": ""
+    },
+    {
+        "icon": "faFileImageaddressBook",
+        "color": "red",
+        "title": "eu",
+        "linkTo": ""
+    },
+    {
+        "icon": "faArrowAltCircleDown",
+        "color": "pink",
+        "title": "labore",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCalendarCheck",
+        "color": "pink",
+        "title": "culpa",
+        "linkTo": ""
+    },
+    {
+        "icon": "faHandPeace",
+        "color": "green",
+        "title": "labore",
+        "linkTo": ""
+    },
+    {
+        "icon": "faHandPointUp",
+        "color": "green",
+        "title": "eu",
+        "linkTo": ""
+    },
+    {
+        "icon": "faFileExcel",
+        "color": "orange",
+        "title": "velit",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCopyright",
+        "color": "orange",
+        "title": "minim",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCalendar",
+        "color": "blue",
+        "title": "do",
+        "linkTo": ""
+    },
+    {
+        "icon": "faPauseCircle",
+        "color": "orange",
+        "title": "sint",
+        "linkTo": ""
+    },
+    {
+        "icon": "faChartBar",
+        "color": "light-blue",
+        "title": "anim",
+        "linkTo": ""
+    },
+    {
+        "icon": "faEnvelopeOpen",
+        "color": "purple",
+        "title": "adipisicing",
+        "linkTo": ""
+    },
+    {
+        "icon": "faSave",
+        "color": "red",
+        "title": "labore",
+        "linkTo": ""
+    },
+    {
+        "icon": "faUserCircle",
+        "color": "blue",
+        "title": "voluptate",
+        "linkTo": ""
+    },
+    {
+        "icon": "faHandPointUp",
+        "color": "pink",
+        "title": "qui",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCalendarMinus",
+        "color": "blue",
+        "title": "ex",
+        "linkTo": ""
+    },
+    {
+        "icon": "faUser",
+        "color": "orange",
+        "title": "Lorem",
+        "linkTo": ""
+    },
+    {
+        "icon": "faAddressCard",
+        "color": "red",
+        "title": "officia",
+        "linkTo": ""
+    }
+]

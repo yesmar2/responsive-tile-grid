@@ -1,0 +1,22 @@
+.app {
+    height: 100%;
+    overflow: auto;
+    /* background: linear-gradient(rgb(46, 98, 156), rgb(122, 185, 216)); */
+    /* background: linear-gradient(rgb(128, 14, 98), rgb(251, 79, 57)); */
+    /* background: linear-gradient(rgb(6, 24, 80), rgb(151, 97, 161)); */
+    background: url("./images/background.svg"),
+        linear-gradient(
+            45deg,
+            rgba(250, 177, 128, 1) 25%,
+            rgba(254, 164, 157, 1) 50%,
+            rgba(255, 122, 142, 1)
+        );
+    /* background: url(/static/media/overlay.63ef37a4.png),
+        linear-gradient(225deg, #212121 50%, #0f0f0f); */
+    background-repeat: no-repeat;
+    /* background-color: #726193; */
+    /* background-color: #e37b7c; */
+    /* background-color: rgb(46, 98, 156); */
+    /* background-color: #72de93; */
+    /* background: linear-gradient(225deg, #72de93, #2dbd9d); */
+}
