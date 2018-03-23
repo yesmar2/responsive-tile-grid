@@ -1,176 +1,152 @@
 [
     {
-        "icon": "faPlusSquare",
+        "icon": "faHandPointer",
+        "color": "blue",
+        "title": "aliqua",
+        "linkTo": ""
+    },
+    {
+        "icon": "faMap",
         "color": "green",
-        "title": "irure",
+        "title": "ut",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCaretSquareLeft",
+        "color": "purple",
+        "title": "fugiat",
+        "linkTo": ""
+    },
+    {
+        "icon": "faClipboard",
+        "color": "red",
+        "title": "cillum",
         "linkTo": ""
     },
     {
         "icon": "faCircle",
         "color": "purple",
-        "title": "sint",
+        "title": "consectetur",
         "linkTo": ""
     },
     {
-        "icon": "faObjectUngroup",
+        "icon": "faFileImage",
+        "color": "purple",
+        "title": "ea",
+        "linkTo": ""
+    },
+    {
+        "icon": "faBookmark",
         "color": "red",
-        "title": "ut",
+        "title": "deserunt",
         "linkTo": ""
     },
     {
-        "icon": "faPaperPlane",
-        "color": "orange",
-        "title": "occaecat",
+        "icon": "faHdd",
+        "color": "red",
+        "title": "cillum",
         "linkTo": ""
     },
     {
-        "icon": "faEnvelopeOpen",
-        "color": "purple",
-        "title": "sunt",
-        "linkTo": ""
-    },
-    {
-        "icon": "faCopy",
-        "color": "light-blue",
-        "title": "anim",
-        "linkTo": ""
-    },
-    {
-        "icon": "faHandPointLeft",
-        "color": "purple",
-        "title": "sit",
-        "linkTo": ""
-    },
-    {
-        "icon": "faFileArchive",
-        "color": "orange",
-        "title": "nulla",
-        "linkTo": ""
-    },
-    {
-        "icon": "faFileWord",
-        "color": "blue",
-        "title": "magna",
-        "linkTo": ""
-    },
-    {
-        "icon": "faCreditCard",
-        "color": "orange",
+        "icon": "faArrowAltCircleLeft",
+        "color": "red",
         "title": "id",
         "linkTo": ""
     },
     {
-        "icon": "faTimesCircle",
-        "color": "orange",
-        "title": "excepteur",
+        "icon": "faFileWord",
+        "color": "green",
+        "title": "ut",
         "linkTo": ""
     },
     {
-        "icon": "faMoon",
-        "color": "light-blue",
-        "title": "fugiat",
+        "icon": "faKeyboard",
+        "color": "purple",
+        "title": "reprehenderit",
         "linkTo": ""
     },
     {
-        "icon": "faFileImageaddressBook",
-        "color": "red",
-        "title": "eu",
+        "icon": "faWindowClose",
+        "color": "green",
+        "title": "amet",
         "linkTo": ""
     },
     {
-        "icon": "faArrowAltCircleDown",
-        "color": "pink",
+        "icon": "faObjectGroup",
+        "color": "blue",
+        "title": "ipsum",
+        "linkTo": ""
+    },
+    {
+        "icon": "faHdd",
+        "color": "purple",
         "title": "labore",
         "linkTo": ""
     },
     {
-        "icon": "faCalendarCheck",
-        "color": "pink",
-        "title": "culpa",
-        "linkTo": ""
-    },
-    {
-        "icon": "faHandPeace",
-        "color": "green",
-        "title": "labore",
-        "linkTo": ""
-    },
-    {
-        "icon": "faHandPointUp",
-        "color": "green",
-        "title": "eu",
+        "icon": "faFolder",
+        "color": "purple",
+        "title": "elit",
         "linkTo": ""
     },
     {
         "icon": "faFileExcel",
-        "color": "orange",
-        "title": "velit",
+        "color": "purple",
+        "title": "et",
         "linkTo": ""
     },
     {
-        "icon": "faCopyright",
-        "color": "orange",
-        "title": "minim",
-        "linkTo": ""
-    },
-    {
-        "icon": "faCalendar",
+        "icon": "faHandPeace",
         "color": "blue",
-        "title": "do",
+        "title": "tempor",
         "linkTo": ""
     },
     {
-        "icon": "faPauseCircle",
-        "color": "orange",
+        "icon": "faDotCircle",
+        "color": "green",
+        "title": "excepteur",
+        "linkTo": ""
+    },
+    {
+        "icon": "faCircle",
+        "color": "red",
+        "title": "sit",
+        "linkTo": ""
+    },
+    {
+        "icon": "faBookmark",
+        "color": "blue",
         "title": "sint",
         "linkTo": ""
     },
     {
-        "icon": "faChartBar",
-        "color": "light-blue",
-        "title": "anim",
-        "linkTo": ""
-    },
-    {
-        "icon": "faEnvelopeOpen",
+        "icon": "faHandPaper",
         "color": "purple",
-        "title": "adipisicing",
+        "title": "excepteur",
         "linkTo": ""
     },
     {
-        "icon": "faSave",
-        "color": "red",
-        "title": "labore",
+        "icon": "faQuestionCircle",
+        "color": "purple",
+        "title": "culpa",
         "linkTo": ""
     },
     {
-        "icon": "faUserCircle",
+        "icon": "faBuilding",
         "color": "blue",
-        "title": "voluptate",
+        "title": "irure",
         "linkTo": ""
     },
     {
-        "icon": "faHandPointUp",
-        "color": "pink",
-        "title": "qui",
-        "linkTo": ""
-    },
-    {
-        "icon": "faCalendarMinus",
-        "color": "blue",
-        "title": "ex",
-        "linkTo": ""
-    },
-    {
-        "icon": "faUser",
-        "color": "orange",
-        "title": "Lorem",
-        "linkTo": ""
-    },
-    {
-        "icon": "faAddressCard",
+        "icon": "faClone",
         "color": "red",
-        "title": "officia",
+        "title": "dolor",
+        "linkTo": ""
+    },
+    {
+        "icon": "faIdCard",
+        "color": "green",
+        "title": "est",
         "linkTo": ""
     }
 ]

@@ -9,27 +9,27 @@ const Grid = props => {
     const gridSpecs = [
         {
             minWidth: 1800,
-            numColumns: 7
+            numColumns: 12
         },
         {
             minWidth: 1500,
-            numColumns: 6
+            numColumns: 11
         },
         {
             minWidth: 1200,
-            numColumns: 5
+            numColumns: 9
         },
         {
             minWidth: 900,
-            numColumns: 4
+            numColumns: 7
         },
         {
             minWidth: 600,
-            numColumns: 3
+            numColumns: 5
         },
         {
             minWidth: 0,
-            numColumns: 2
+            numColumns: 3
         }
     ];
 

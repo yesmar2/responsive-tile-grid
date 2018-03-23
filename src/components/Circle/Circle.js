@@ -15,7 +15,7 @@ class Circle extends Component {
             <Link to={linkTo} className={`circle ${color}`}>
                 <div className="content">
                     {icon && <FontAwesomeIcon icon={faRegular[icon]} />}
-                    <p>{title}</p>
+                    {/* <p>{title}</p> */}
                 </div>
             </Link>
         );

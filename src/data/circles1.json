@@ -1,146 +1,122 @@
 [
     {
-        "icon": "faHourglass",
-        "color": "light-blue",
-        "title": "est",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faCaretSquareRight",
-        "color": "pink",
-        "title": "enim",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faThumbsUp",
+        "icon": "faBookmark",
         "color": "purple",
-        "title": "id",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faHourglass",
-        "color": "red",
         "title": "sunt",
         "linkTo": "/1"
     },
     {
-        "icon": "faWindowRestore",
-        "color": "orange",
-        "title": "et",
+        "icon": "faArrowAltCircleUp",
+        "color": "red",
+        "title": "tempor",
         "linkTo": "/1"
     },
     {
-        "icon": "faCalendar",
-        "color": "orange",
-        "title": "labore",
+        "icon": "faBellSlash",
+        "color": "red",
+        "title": "duis",
         "linkTo": "/1"
     },
     {
-        "icon": "faSnowflake",
-        "color": "purple",
-        "title": "anim",
+        "icon": "faFrown",
+        "color": "red",
+        "title": "ea",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faComment",
+        "color": "blue",
+        "title": "aliquip",
         "linkTo": "/1"
     },
     {
         "icon": "faSquare",
-        "color": "orange",
-        "title": "dolore",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faChartBar",
-        "color": "purple",
-        "title": "proident",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faMoneyBillAlt",
-        "color": "pink",
-        "title": "Lorem",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faBookmark",
-        "color": "light-blue",
-        "title": "eu",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faFileArchive",
-        "color": "orange",
-        "title": "ut",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faFutbol",
-        "color": "orange",
-        "title": "ex",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faFileExcel",
-        "color": "purple",
-        "title": "cillum",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faLemon",
-        "color": "purple",
+        "color": "red",
         "title": "et",
         "linkTo": "/1"
     },
     {
+        "icon": "faHandPointUp",
+        "color": "purple",
+        "title": "aliqua",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faFileExcel",
+        "color": "red",
+        "title": "ullamco",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faClosedCaptioning",
+        "color": "red",
+        "title": "duis",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faWindowClose",
+        "color": "purple",
+        "title": "laboris",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faWindowMinimize",
+        "color": "green",
+        "title": "ea",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faSquare",
+        "color": "blue",
+        "title": "amet",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faCreditCard",
+        "color": "green",
+        "title": "minim",
+        "linkTo": "/1"
+    },
+    {
         "icon": "faShareSquare",
-        "color": "red",
-        "title": "fugiat",
+        "color": "blue",
+        "title": "mollit",
         "linkTo": "/1"
     },
     {
-        "icon": "faCalendarTimes",
-        "color": "orange",
-        "title": "anim",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faHandSpock",
-        "color": "orange",
-        "title": "consectetur",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faGem",
-        "color": "orange",
-        "title": "incididunt",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faComments",
-        "color": "light-blue",
-        "title": "sunt",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faCompass",
-        "color": "light-blue",
-        "title": "incididunt",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faFilePowerpoint",
+        "icon": "faWindowMaximize",
         "color": "green",
-        "title": "cupidatat",
+        "title": "nisi",
         "linkTo": "/1"
     },
     {
-        "icon": "faFileVideo",
-        "color": "red",
-        "title": "excepteur",
-        "linkTo": "/1"
-    },
-    {
-        "icon": "faFileAudio",
+        "icon": "faObjectUngroup",
         "color": "green",
-        "title": "tempor",
+        "title": "officia",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faBellSlash",
+        "color": "blue",
+        "title": "ut",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faIdBadge",
+        "color": "blue",
+        "title": "eu",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faStar",
+        "color": "red",
+        "title": "commodo",
+        "linkTo": "/1"
+    },
+    {
+        "icon": "faPlayCircle",
+        "color": "blue",
+        "title": "qui",
         "linkTo": "/1"
     }
 ]

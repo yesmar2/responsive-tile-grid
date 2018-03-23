@@ -1,44 +1,25 @@
 .circle {
     --circle-rgb: 255, 255, 255;
-    border-radius: 50%;
     font-weight: 100;
     position: relative;
-    /* box-shadow: 0px 0px 15px 0px rgba(var(--circle-rgb), 0.5); */
-    color: rgba(var(--circle-rgb), 1);
-    /* background-color: rgba(var(--circle-rgb), 0.05); */
-    border: 3px solid rgba(var(--circle-rgb), 1);
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(var(--circle-rgb), 1);
 }
 
 .circle.purple {
-    --circle-rgb: 165, 94, 234;
+    --circle-rgb: 155, 89, 182;
 }
 
 .circle.green {
-    --circle-rgb: 38, 222, 129;
+    --circle-rgb: 46, 204, 113;
 }
 
 .circle.red {
-    --circle-rgb: 252, 92, 101;
+    --circle-rgb: 231, 76, 60;
 }
 
 .circle.blue {
-    --circle-rgb: 69, 170, 242;
-}
-
-.circle.yellow {
-    --circle-rgb: 254, 211, 48;
-}
-
-.circle.orange {
-    --circle-rgb: 253, 150, 68;
-}
-
-.circle.pink {
-    --circle-rgb: 237, 55, 159;
-}
-
-.circle.light-blue {
-    --circle-rgb: 2, 201, 255;
+    --circle-rgb: 52, 152, 219;
 }
 
 .circle::before {
