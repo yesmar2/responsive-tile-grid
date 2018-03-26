@@ -44,9 +44,9 @@
     margin: 0.5rem;
 }
 
-.circle svg {
-    font-size: 1em;
-}
+/* .circle svg {
+    font-size: 100%;
+} */
 
 .circle p {
     font-size: 0.2em;

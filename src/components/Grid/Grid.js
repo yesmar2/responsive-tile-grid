@@ -1,61 +1,12 @@
 import React from "react";
 import Circle from "components/Circle";
-import sizeMe from "react-sizeme";
 import "./Grid.css";
 
 const Grid = props => {
-    const { circles, size } = props;
-
-    const gridSpecs = [
-        {
-            minWidth: 1800,
-            numColumns: 12
-        },
-        {
-            minWidth: 1500,
-            numColumns: 11
-        },
-        {
-            minWidth: 1200,
-            numColumns: 9
-        },
-        {
-            minWidth: 900,
-            numColumns: 7
-        },
-        {
-            minWidth: 600,
-            numColumns: 5
-        },
-        {
-            minWidth: 0,
-            numColumns: 3
-        }
-    ];
-
-    const gutter = 25;
-
-    const minGridSpecs = gridSpecs.filter(spec => spec.minWidth < size.width);
-
-    const currentNumColumns = minGridSpecs.reduce(
-        (max, currentObject) =>
-            currentObject.numColumns > max ? currentObject.numColumns : max,
-        minGridSpecs[0].numColumns
-    );
-
-    const circleWidth =
-        (size.width - (currentNumColumns + 1) * gutter) / currentNumColumns;
-
-    const gridStyle = {
-        display: "grid",
-        padding: `${gutter}px`,
-        gridTemplateColumns: `repeat(${currentNumColumns}, 1fr)`,
-        gridGap: `${gutter}px`,
-        fontSize: `${circleWidth - 40}px`
-    };
+    const { circles } = props;
 
     return (
-        <div style={gridStyle}>
+        <div className="grid">
             {circles.map((circle, index) => (
                 <Circle
                     key={index}
@@ -69,4 +20,4 @@ const Grid = props => {
     );
 };
 
-export default sizeMe()(Grid);
+export default Grid;
